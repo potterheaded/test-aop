@@ -1,4 +1,4 @@
-name: 'AOP-test-TS-action manifest'
+name: 'AOP-test-go-action latest manifest'
 on: # rebuild any PRs and main branch changes
   workflow_dispatch:
   workflow_call:
